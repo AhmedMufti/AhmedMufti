@@ -38,6 +38,9 @@ Passionate **Full-Stack Web Developer** with a focus on building scalable, high-
 
 ## 🌟 Featured Projects
 
+### 🌟 [Pakistan Legal Nexus - Lawyer Workspace Platform](https://earnest-praline-2c72a6.netlify.app/)
+MERN stack platform with role-based access control (RBAC) for Lawyers, Litigants, and Clerks, real-time chat functionality, document versioning and JWT authentication.
+
 ### 🎨 [Pixel-Perfect Figma Design Implementation](https://pixel-perfect-figma-designs-to.onrender.com)
 Converting design mockups into flawless, responsive web applications with attention to every detail.
 
