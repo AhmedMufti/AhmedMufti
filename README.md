@@ -41,7 +41,7 @@ Passionate **Full-Stack Web Developer** with a focus on building scalable, high-
 ### 🧑‍⚕️ [MedScholar - AI-Powered Medical Research Tool](https://med-scholar-ten.vercel.app)
 MedScholar is a comprehensive AI-backed clinical research tool designed to combat medical misinformation by providing evidence-based answers exclusively from verified sources (PubMed, FDA, WHO). The system uses RAG (Retrieval Augmented Generation) to ground all responses in peer-reviewed medical literature.
 
-### [IndonesiaCompliance: Regulatory Roadmap Platform](https://indonesia-compliance.vercel.app/) 
+### 🇮🇩 [IndonesiaCompliance: Regulatory Roadmap Platform](https://indonesia-compliance.vercel.app/) 
 Production web platform that generated over 1,000 compliance roadmaps from Indonesian government data, with a Next.js front end and a PostgreSQL-backed API. 
 
 ### 🌟 [Pakistan Legal Nexus - Lawyer Workspace Platform](https://earnest-praline-2c72a6.netlify.app/)
